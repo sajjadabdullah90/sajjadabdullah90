@@ -28,7 +28,6 @@
 
   <br /><br />
 
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/network-nodes.svg" width="100%" alt="Animated connected network nodes with moving data pulses" />
 
   <br /><br />
 
