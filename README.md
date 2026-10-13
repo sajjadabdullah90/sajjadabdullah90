@@ -27,12 +27,6 @@
 
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/developer-workspace.svg" width="100%" alt="Animated developer workspace combining application code, terminal builds, and test checks" />
 
-  <br /><br />
-
-
-  <br /><br />
-
-
 </div>
 
 ---
