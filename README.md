@@ -43,94 +43,60 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td width="190"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&theme=dark" alt="Python, C++, Java, JavaScript, HTML5, CSS3" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend &amp; Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vite,threejs,tailwind,bootstrap&theme=dark" alt="React, Vite, Three.js, Tailwind CSS, Bootstrap" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; APIs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, FastAPI" /></td>
-  </tr>
-  <tr>
-    <td><b>Databases &amp; Data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" alt="PostgreSQL, MongoDB, Redis, Prisma" />
-      <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" />
-      <img height="48" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="Scikit-learn" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools &amp; Graphics</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,selenium&theme=dark" alt="Git, GitHub, VS Code, Selenium" />
-      <img height="48" src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Currently Learning</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nextjs,ts,aws&theme=dark" alt="Docker, Next.js, TypeScript, AWS" /></td>
-  </tr>
-</table>
+<p>
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-languages.svg" width="200" height="48" alt="Languages" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&theme=dark" alt="Languages icons" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-frontend.svg" width="200" height="48" alt="Frontend and Web" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react,vite,threejs,tailwind,bootstrap&theme=dark" alt="Frontend and Web icons" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-backend.svg" width="200" height="48" alt="Backend and APIs" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend and APIs icons" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-data.svg" width="200" height="48" alt="Databases and Data" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" alt="Databases and Data icons" />
+  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" />
+  <img height="48" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="Scikit-learn" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-tools.svg" width="200" height="48" alt="Tools and Graphics" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,selenium&theme=dark" alt="Tools and Graphics icons" />
+  <img height="48" src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-learning.svg" width="200" height="48" alt="Currently Learning" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker,nextjs,ts,aws&theme=dark" alt="Currently Learning icons" />
+</p>
 
 **Also explored:** Progressive Web Apps (PWA) · JWT authentication · SQL\*Plus · Prolog · FreeGLUT · Exploratory Data Analysis · Predictive Modeling · Cybersecurity Fundamentals
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sajjadabdullah90/CafeServe">CafeServe</a></h3>
-      <p>A full-stack restaurant ordering and management application with a digital menu, shopping cart, customer accounts, order tracking, and admin workflows.</p>
-      <p><b>Stack:</b> <code>React</code> · <code>Vite</code> · <code>Node.js</code> · <code>Express</code> · <code>PostgreSQL</code> · <code>Prisma</code> · <code>JWT</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>PakEduNavigate <sup>private</sup></h3>
-      <p>An academic advisory PWA for Pakistani students, focused on university merit calculations, O/A-Level equivalence, university exploration, and career guidance.</p>
-      <p><b>Stack:</b> <code>React</code> · <code>Vite</code> · <code>Node.js</code> · <code>Express</code> · <code>Python</code> · <code>FastAPI</code> · <code>PostgreSQL</code> · <code>MongoDB</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sajjadabdullah90/Pakistan-Agri-Market-Price-Predictor-Advisor-Machine-Learning-and-AI-Project-">Pakistan Agri-Market Price Predictor</a></h3>
-      <p>An AI/ML project exploring agricultural market-price prediction and decision support for Pakistan's agricultural context.</p>
-      <p><b>Stack:</b> <code>Python</code> · <code>Machine Learning</code> · <code>Data Analysis</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sajjadabdullah90/Aetheria-The-Floating-Sanctuary-Computer-Graphics-Project-">Aetheria: The Floating Sanctuary</a></h3>
-      <p>A computer-graphics project exploring a stylized floating sanctuary and 3D environment design.</p>
-      <p><b>Stack:</b> <code>Computer Graphics</code> · <code>3D Visualization</code> · <code>OpenGL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sajjadabdullah90/WSAT">Online Rental Marketplace</a></h3>
-      <p>A full-stack marketplace concept for listing and renting assets, built around web interfaces, backend APIs, and database-driven functionality.</p>
-      <p><b>Stack:</b> <code>MongoDB</code> · <code>Express.js</code> · <code>React</code> · <code>Node.js</code></p>
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <h3>More projects</h3>
-      <p>Browse everything else I'm building and experimenting with.</p>
-      <p><a href="https://github.com/sajjadabdullah90?tab=repositories"><b>All repositories →</b></a></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/sajjadabdullah90/CafeServe"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-cafeserve.svg" width="49%" alt="CafeServe project card" /></a>
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-pakedunavigate.svg" width="49%" alt="PakEduNavigate project card (private)" />
+  <br />
+  <a href="https://github.com/sajjadabdullah90/Pakistan-Agri-Market-Price-Predictor-Advisor-Machine-Learning-and-AI-Project-"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-agri-predictor.svg" width="49%" alt="Pakistan Agri-Market Price Predictor project card" /></a>
+  <a href="https://github.com/sajjadabdullah90/Aetheria-The-Floating-Sanctuary-Computer-Graphics-Project-"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-aetheria.svg" width="49%" alt="Aetheria: The Floating Sanctuary project card" /></a>
+  <br />
+  <a href="https://github.com/sajjadabdullah90/WSAT"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-rental-marketplace.svg" width="49%" alt="Online Rental Marketplace project card" /></a>
+  <a href="https://github.com/sajjadabdullah90?tab=repositories"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-more-projects.svg" width="49%" alt="More projects on GitHub" /></a>
+</div>
 
 ## Experience & Education
 
-**Software Developer Intern** · Clayro Studio Private Limited<br />
-<sub>Oct – Dec 2026</sub>
-
-Contributing to software development tasks, building a full-stack **CafeServe** demo application, and practicing collaborative development workflows.
-
-**B.S. in Information Technology** · Bahria University, Karachi<br />
-<sub>Expected 2027 · CGPA 3.72 / 4.00 · Merit Scholarship (awarded twice)</sub>
-
-Relevant coursework includes software development, databases, data structures, computer networks, cybersecurity, and machine learning.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-experience.svg" width="49%" alt="Experience: Software Developer Intern at Clayro Studio Private Limited, Oct to Dec 2026" />
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-education.svg" width="49%" alt="Education: B.S. in Information Technology at Bahria University, Karachi, expected 2027" />
+</div>
 
 ## GitHub Stats
 
@@ -158,10 +124,13 @@ Relevant coursework includes software development, databases, data structures, c
 I'm happy to connect with developers, collaborate on meaningful projects, and learn from the software engineering community.
 
 <div align="center">
-  <a href="mailto:sajjadabdullah90@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/syedabdullah7"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/sajjadabdullah90"><b>GitHub</b></a> &nbsp;·&nbsp;
-  <a href="Syed_Abdullah_CV.pdf"><b>Resume</b></a>
+  <a href="https://github.com/sajjadabdullah90"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-github.svg" width="190" alt="Follow on GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/syedabdullah7"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-linkedin.svg" width="190" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:sajjadabdullah90@gmail.com"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-email.svg" width="190" alt="Email me" /></a>
+  &nbsp;
+  <a href="Syed_Abdullah_CV.pdf"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-resume.svg" width="190" alt="Download resume" /></a>
 </div>
 
 <br />
