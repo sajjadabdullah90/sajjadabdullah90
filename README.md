@@ -8,30 +8,22 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:172554,100:2563EB&text=Syed%20Abdullah&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%203D%20Graphics&descAlignY=59&descSize=16&animation=fadeIn" width="100%" alt="Animated header: Syed Abdullah" />
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+useful+software%2C+one+idea+at+a+time;Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
-
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/hacker-terminal.svg" width="82%" alt="Animated developer terminal showing build and Git commands" />
-
-  <br /><br />
-
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/cyber-circuit.svg" width="100%" alt="Animated cyber circuit banner with glowing signal pulses" />
-
-  <br /><br />
-
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/matrix-rain.svg" width="100%" alt="Animated Matrix digital rain with developer-themed title" />
-
-  <br /><br />
-
   <a href="https://github.com/sajjadabdullah90"><img src="https://img.shields.io/badge/GitHub-sajjadabdullah90-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/syedabdullah7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sajjadabdullah90@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="Syed_Abdullah_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" /></a>
 
-  <br /><br />
-
   <img src="https://komarev.com/ghpvc/?username=sajjadabdullah90&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Karachi-PKT_(UTC%2B5)-172554?style=flat-square&logo=clockify&logoColor=60A5FA" alt="Karachi timezone" />
+
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/hacker-terminal.svg" width="82%" alt="Animated developer terminal showing build and Git commands" />
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+useful+software%2C+one+idea+at+a+time;Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
+
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/cyber-circuit.svg" width="100%" alt="Animated cyber circuit banner with glowing signal pulses" />
+
+  <br /><br />
 
 </div>
 
