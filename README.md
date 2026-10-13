@@ -21,12 +21,7 @@
 
   <br /><br />
 
-  <br />
-
-  <p><sub>⌖ &nbsp; LOCATION &amp; TIMEZONE</sub></p>
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/karachi-location-card.svg" width="360" alt="Karachi, Pakistan · Pakistan Standard Time UTC+5" />
-
-  <br />
+  <p><sub>📍 Karachi, Pakistan &nbsp; · &nbsp; Pakistan Standard Time (UTC+5)</sub></p>
 
   <br /><br />
 
