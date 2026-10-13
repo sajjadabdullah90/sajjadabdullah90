@@ -292,9 +292,11 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 I'm happy to connect with developers, collaborate on meaningful projects, and learn from the software engineering community.
 
 <div align="center">
-  <a href="mailto:sajjadabdullah90@gmail.com"><img src="https://img.shields.io/badge/Email_Me-sajjadabdullah90%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdullah" /></a>
-  <a href="https://www.linkedin.com/in/syedabdullah7"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/sajjadabdullah90"><img src="https://img.shields.io/badge/Follow_on-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="mailto:sajjadabdullah90@gmail.com"><img src="./assets/button-email.svg" width="230" alt="Email Syed Abdullah" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/syedabdullah7"><img src="./assets/button-linkedin.svg" width="230" alt="Connect with Syed Abdullah on LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/sajjadabdullah90"><img src="./assets/button-github.svg" width="230" alt="Follow Syed Abdullah on GitHub" /></a>
 </div>
 
 <br />
