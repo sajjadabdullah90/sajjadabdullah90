@@ -16,19 +16,9 @@
   &nbsp;
   <a href="Syed_Abdullah_CV.pdf"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-resume.svg" width="190" alt="Download resume" /></a>
 
-  <table align="center" cellpadding="8">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/profile-visitors-card.svg" width="330" alt="Custom profile visits card" /><br />
-        <a href="https://github.com/sajjadabdullah90">
-          <img src="https://komarev.com/ghpvc/?username=sajjadabdullah90&label=TOTAL%20VISITS&color=2563EB&style=for-the-badge&labelColor=0B1020" alt="Live GitHub profile visits counter" />
-        </a>
-      </td>
-      <td align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/karachi-location-card.svg" width="330" alt="Custom Karachi location and timezone card" />
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/karachi-location-card.svg" width="330" alt="Custom Karachi location and timezone card" />
+  </div>
 
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/hacker-terminal.svg" width="82%" alt="Animated developer terminal showing build and Git commands" />
 
