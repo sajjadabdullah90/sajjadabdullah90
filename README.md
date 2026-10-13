@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:172554,100:2563EB&text=Syed%20Abdullah&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%203D%20Graphics&descAlignY=59&descSize=16&animation=fadeIn" width="100%" alt="Animated header: Syed Abdullah" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080D1A,35:172554,70:1D4ED8,100:60A5FA&text=SYED%20ABDULLAH&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=15&animation=fadeIn&stroke=60A5FA&strokeWidth=1" width="100%" alt="Animated blue gradient banner for Syed Abdullah, Full-Stack Developer and AI/ML enthusiast" />
 
   <a href="https://github.com/sajjadabdullah90"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-github.svg" width="190" alt="Connect on GitHub" /></a>
   &nbsp;
