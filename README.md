@@ -50,10 +50,18 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, FastAPI" />
 
 ### Databases & Data
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,python,pandas,sklearn&theme=dark" alt="PostgreSQL, MongoDB, Redis, Prisma, Python, Pandas, Scikit-learn" />
+<p>
+  <img height="42" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,python&theme=dark" alt="PostgreSQL, MongoDB, Redis, Prisma, Python" />
+  <img height="42" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img height="42" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+</p>
 
 ### Tools & Graphics
-<img src="https://skillicons.dev/icons?i=git,github,vscode,selenium,opengl&theme=dark" alt="Git, GitHub, VS Code, Selenium, OpenGL" />
+<p>
+  <img height="42" src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, Visual Studio Code" />
+  <img height="42" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img height="42" src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+</p>
 
 </div>
 
@@ -94,10 +102,10 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
   </tr>
   <tr>
 <td width="50%" valign="top">
-      <h3>🏠 Online Rental Marketplace</h3>
+      <h3>🏠 <a href="https://github.com/sajjadabdullah90/WSAT">Online Rental Marketplace</a></h3>
       <p>A full-stack marketplace concept for listing and renting assets, built around web interfaces, backend APIs, and database-driven functionality.</p>
       <p><strong>Stack:</strong> MongoDB · Express.js · React · Node.js</p>
-      <p><a href="https://github.com/sajjadabdullah90?tab=repositories">Browse repositories →</a></p>
+      <p><a href="https://github.com/sajjadabdullah90/WSAT">View repository →</a></p>
     </td>
   </tr>
 </table>
