@@ -1,16 +1,13 @@
 <!--
   GitHub Profile README
-  Create a repository named exactly: sajjadabdullah90
-  Put this file in that repository as README.md.
+  Animated, dark-blue profile layout for Syed Abdullah.
 -->
 
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:172554,100:2563EB&text=Syed%20Abdullah&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%203D%20Graphics&descAlignY=59&descSize=16&animation=fadeIn" width="100%" alt="Animated header: Syed Abdullah" />
 
-  <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+useful+software%2C+one+idea+at+a+time;Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+useful+software%2C+one+idea+at+a+time;Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+useful+software%2C+one+idea+at+a+time;Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
 
   <p>
     <a href="https://github.com/sajjadabdullah90"><img src="https://img.shields.io/badge/GitHub-sajjadabdullah90-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -26,14 +23,13 @@
 
 ## 👋 About Me
 
-I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.72/4.00 CGPA** and a two-time Merit Scholarship recipient. I enjoy turning ideas into practical software—from full-stack web applications and AI-powered tools to interactive 3D simulations.
+I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.72/4.00 CGPA** and a two-time Merit Scholarship recipient. I enjoy turning ideas into practical software—from full-stack web applications and AI-powered tools to interactive 3D experiences.
 
 - 💻 Software Developer Intern at **Clayro Studio**
 - 🎓 B.S. in Information Technology — expected **2027**
 - 🧠 Interested in **Software Engineering, AI/ML, and Data Science**
 - 🛠️ Building **PakEduNavigate**, a student-focused university admissions and career-planning PWA
-- 🤝 Experienced in team projects, technical presentations, and collaborative development
-- 🌱 Currently strengthening my skills in **PostgreSQL, database administration, and secure application development**
+- 🌱 Currently strengthening my skills in **database design, secure application development, and full-stack engineering**
 
 > **My goal:** build reliable, useful, and thoughtfully designed software that solves real problems.
 
@@ -44,20 +40,39 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" alt="Python, C++, Java, JavaScript, HTML and CSS" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 ### Web Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind,bootstrap" alt="React, Node.js, Express, Vite, Tailwind CSS and Bootstrap" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
-### Data, AI & Databases
-<img src="https://skillicons.dev/icons?i=sklearn,pandas,mongodb,postgres,prisma" alt="Scikit-learn, Pandas, MongoDB, PostgreSQL and Prisma" />
+### AI, Data & Databases
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 
 ### Tools & Other Technologies
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,selenium,linux" alt="Git, GitHub, Jupyter, Selenium and Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo= fastapi&logoColor=white" alt="REST APIs" />
 
 </div>
 
-**Also explored:** Streamlit, Prolog, OpenGL, FreeGLUT, SQL*Plus, REST APIs, Progressive Web Apps (PWA), exploratory data analysis, predictive modeling, and prompt engineering.
+**Also explored:** Progressive Web Apps (PWA), JWT authentication, SQL*Plus, Prolog, FreeGLUT, exploratory data analysis, predictive modeling, and cybersecurity fundamentals.
 
 ---
 
@@ -66,34 +81,47 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 PakEduNavigate</h3>
-      <p><strong>Status:</strong> In progress</p>
-      <p>An installable, responsive Progressive Web App designed to help Pakistani students explore university admissions and make informed career-planning decisions.</p>
-      <p><strong>Focus:</strong> Student guidance · Admissions · Career planning · PWA</p>
+      <h3>☕ <a href="https://github.com/sajjadabdullah90/CafeServe">CafeServe</a></h3>
+      <p>A full-stack restaurant ordering and management application with a digital menu, shopping cart, customer accounts, order tracking, and admin workflows.</p>
+      <p><strong>Stack:</strong> React · Vite · Node.js · Express · PostgreSQL · Prisma · JWT</p>
+      <p><a href="https://github.com/sajjadabdullah90/CafeServe">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌾 Hybrid AI Agricultural Price Predictor & Chatbot</h3>
-      <p>A machine-learning web application for agricultural commodity price analysis, combining data-processing pipelines with a rule-based Prolog knowledge base for interactive queries.</p>
-      <p><strong>Stack:</strong> Python · Streamlit · Scikit-learn · Pandas · Prolog</p>
+      <h3>🎓 <a href="https://github.com/sajjadabdullah90/PakEduNavigate">PakEduNavigate</a></h3>
+      <p>An academic advisory PWA for Pakistani students, focused on university merit calculations, O/A-Level equivalence, university exploration, and career guidance.</p>
+      <p><strong>Stack:</strong> React · Vite · Node.js · Express · Python · FastAPI · PostgreSQL · MongoDB</p>
+      <p><a href="https://github.com/sajjadabdullah90/PakEduNavigate">View repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/sajjadabdullah90/Pakistan-Agri-Market-Price-Predictor-Advisor-Machine-Learning-and-AI-Project-">Pakistan Agri-Market Price Predictor & Advisor</a></h3>
+      <p>An AI/ML project exploring agricultural market-price prediction and decision support for Pakistan's agricultural context.</p>
+      <p><strong>Stack:</strong> Python · Machine Learning · Data Analysis</p>
+      <p><a href="https://github.com/sajjadabdullah90/Pakistan-Agri-Market-Price-Predictor-Advisor-Machine-Learning-and-AI-Project-">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏝️ <a href="https://github.com/sajjadabdullah90/Aetheria-The-Floating-Sanctuary-Computer-Graphics-Project-">Aetheria: The Floating Sanctuary</a></h3>
+      <p>A computer-graphics project exploring a stylized floating sanctuary and 3D environment design.</p>
+      <p><strong>Focus:</strong> Computer Graphics · 3D Visualization</p>
+      <p><a href="https://github.com/sajjadabdullah90/Aetheria-The-Floating-Sanctuary-Computer-Graphics-Project-">View repository →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🚁 3D Low-Poly Helicopter Simulation</h3>
-      <p>An interactive real-time 3D helicopter simulation featuring geometric transformations and switchable first-person and third-person camera views.</p>
+      <p>An interactive real-time 3D simulation featuring geometric modeling and camera perspectives.</p>
       <p><strong>Stack:</strong> C++ · OpenGL · FreeGLUT</p>
+      <p><a href="https://github.com/sajjadabdullah90?tab=repositories">Browse repositories →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏠 Online Rental Marketplace</h3>
-      <p>A full-stack marketplace where users can list and lease consumer assets, supported by REST APIs, centralized state management, and indexed MongoDB collections.</p>
+      <p>A full-stack marketplace concept for listing and renting assets, built around web interfaces, backend APIs, and database-driven functionality.</p>
       <p><strong>Stack:</strong> MongoDB · Express.js · React · Node.js</p>
+      <p><a href="https://github.com/sajjadabdullah90?tab=repositories">Browse repositories →</a></p>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <i>Project repositories and live demos will be linked here as they become publicly available.</i>
-</p>
 
 ---
 
@@ -102,14 +130,14 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 <details>
   <summary><strong>Software Developer Intern — Clayro Studio Private Limited</strong> · Oct–Dec 2026</summary>
   <br />
-  Collaborating with a professional development team to build and test software features in a live project environment.
+  Contributing to software development tasks, building a full-stack CafeServe demo application, and practicing collaborative development workflows.
 </details>
 
 <details>
-  <summary><strong>Bahria University, Karachi Campus</strong> · B.S. Information Technology · Expected 2027</summary>
+  <summary><strong>Bahria University, Karachi</strong> · B.S. Information Technology · Expected 2027</summary>
   <br />
   CGPA: <strong>3.72/4.00</strong><br />
-  Merit Scholarship recipient (awarded twice). Relevant coursework includes Data Structures and Algorithms, Database Management Systems, Operating Systems, Computer Networks, Cybersecurity, and Machine Learning.
+  Merit Scholarship recipient (awarded twice). Relevant areas include software development, databases, data structures, computer networks, cybersecurity, and machine learning.
 </details>
 
 ---
@@ -131,9 +159,9 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 
 - Building and improving full-stack applications
 - Developing **PakEduNavigate** into a useful student-guidance platform
+- Building secure and maintainable APIs and database-backed features
 - Applying machine learning to practical, data-driven problems
-- Improving database design, API quality, and application security
-- Learning continuously through projects, teamwork, and hands-on development
+- Learning through hands-on projects, teamwork, and continuous improvement
 
 ---
 
