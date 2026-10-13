@@ -13,6 +13,7 @@
     <a href="https://github.com/sajjadabdullah90"><img src="https://img.shields.io/badge/GitHub-sajjadabdullah90-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/syedabdullah7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:sajjadabdullah90@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="Syed_Abdullah_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" /></a>
   </p>
 
   ![Profile views](https://komarev.com/ghpvc/?username=sajjadabdullah90&style=flat-square&color=2563eb&label=PROFILE+VIEWS)
@@ -23,7 +24,7 @@
 
 ## 👋 About Me
 
-I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.70/4.00 CGPA** and a two-time Merit Scholarship recipient. I enjoy turning ideas into practical software—from full-stack web applications and AI-powered tools to interactive 3D experiences.
+I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.72/4.00 CGPA** and a two-time Merit Scholarship recipient. I enjoy turning ideas into practical software—from full-stack web applications and AI-powered tools to interactive 3D experiences.
 
 - 💻 Software Developer Intern at **Clayro Studio**
 - 🎓 B.S. in Information Technology — expected **2027**
@@ -92,13 +93,7 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚁 3D Low-Poly Helicopter Simulation</h3>
-      <p>An interactive real-time 3D simulation featuring geometric modeling and camera perspectives.</p>
-      <p><strong>Stack:</strong> C++ · OpenGL · FreeGLUT</p>
-      <p><a href="https://github.com/sajjadabdullah90?tab=repositories">Browse repositories →</a></p>
-    </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
       <h3>🏠 Online Rental Marketplace</h3>
       <p>A full-stack marketplace concept for listing and renting assets, built around web interfaces, backend APIs, and database-driven functionality.</p>
       <p><strong>Stack:</strong> MongoDB · Express.js · React · Node.js</p>
@@ -120,7 +115,7 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 <details>
   <summary><strong>Bahria University, Karachi</strong> · B.S. Information Technology · Expected 2027</summary>
   <br />
-  CGPA: <strong>3.70/4.00</strong><br />
+  CGPA: <strong>3.72/4.00</strong><br />
   Merit Scholarship recipient (awarded twice). Relevant areas include software development, databases, data structures, computer networks, cybersecurity, and machine learning.
 </details>
 
