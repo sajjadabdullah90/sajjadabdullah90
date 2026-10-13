@@ -25,7 +25,11 @@
 
   <br /><br />
 
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/developer-workspace.svg" width="100%" alt="Animated developer workspace combining application code, terminal builds, and test checks" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man animated contribution graph" />
+  </picture>
 
 </div>
 
