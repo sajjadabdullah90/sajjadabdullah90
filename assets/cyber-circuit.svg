@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">Animated cyber circuit banner</title>
+<desc id="desc">Dark blue circuit-board pattern with glowing animated signal pulses.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050914"/><stop offset=".55" stop-color="#0b1b3d"/><stop offset="1" stop-color="#07101f"/></linearGradient>
+  <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2563eb" stop-opacity=".12"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".3"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="230" rx="18" fill="url(#bg)"/>
+<g fill="none" stroke="url(#trace)" stroke-width="2" opacity=".9">
+<path d="M0 42H160L195 77H310L350 37H470"/><path d="M0 86H95L130 121H250L285 156H405L445 116H540"/>
+<path d="M0 188H145L180 153H285L320 188H455L495 148H590"/><path d="M1200 35H1060L1020 75H900L860 35H735"/><path d="M1200 90H1115L1080 125H960L925 160H800L760 120H650"/><path d="M1200 195H1085L1045 155H935L895 195H760L720 155H620"/>
+<path d="M210 0V35L245 70V110"/><path d="M365 230V195L400 160V125"/><path d="M1000 0V30L965 65V95"/><path d="M845 230V190L810 155V125"/>
+</g>
+<g fill="#60a5fa" filter="url(#glow)">
+<circle cx="310" cy="77" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="405" cy="156" r="4"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="900" cy="75" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="800" cy="160" r="4"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="none" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" filter="url(#glow)">
+<path d="M0 42H160L195 77H310L350 37H470" stroke-dasharray="28 520" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" from="548" to="0" dur="4s" repeatCount="indefinite"/></path>
+<path d="M1200 90H1115L1080 125H960L925 160H800" stroke-dasharray="24 520"><animate attributeName="stroke-dashoffset" from="544" to="0" dur="4.8s" repeatCount="indefinite"/></path>
+</g>
+<g font-family="monospace" text-anchor="middle">
+<text x="600" y="100" font-size="13" fill="#60a5fa" letter-spacing="6">SYSTEM ONLINE  //  DEVELOPER MODE</text>
+<text x="600" y="145" font-size="31" font-weight="700" fill="#f8fafc">BUILD • CONNECT • INNOVATE</text>
+<text x="600" y="176" font-size="13" fill="#93c5fd" letter-spacing="2">FULL-STACK  ·  AI/ML  ·  CREATIVE COMPUTING</text>
+</g>
+<rect x="1" y="1" width="1198" height="228" rx="17" fill="none" stroke="#3b82f6" stroke-opacity=".35"/>
+</svg>
