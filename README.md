@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080D1A,35:172554,70:1D4ED8,100:60A5FA&text=SYED%20ABDULLAH&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=15&animation=fadeIn&stroke=60A5FA&strokeWidth=1" width="100%" alt="Animated blue gradient banner for Syed Abdullah, Full-Stack Developer and AI/ML enthusiast" />
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/aurora-hero.svg" width="100%" alt="Animated aurora banner: Syed Abdullah, Full-Stack Developer, Software Engineering, AI/ML" />
 
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
 
@@ -33,11 +33,7 @@
 
 I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.72 / 4.00 CGPA** and a two-time Merit Scholarship recipient. I enjoy turning ideas into practical software, from full-stack web applications and AI-powered tools to interactive 3D experiences.
 
-- **Role:** Software Developer Intern at **Clayro Studio**
-- **Education:** B.S. in Information Technology, expected **2027**
-- **Building:** **PakEduNavigate**, a student-focused university admissions and career-planning PWA
-- **Learning:** Database design · Secure application development · Full-stack engineering
-- **Interests:** Software engineering · AI/ML · Data science
+<p align="center"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/terminal-card.svg" width="100%" alt="Terminal: syed-abdullah, full-stack developer. Software Developer Intern at Clayro Studio, building PakEduNavigate. Learning database design, secure application development, full-stack engineering. Interests: software engineering, AI/ML, data science, 3D graphics." /></p>
 
 > Build reliable, useful, and thoughtfully designed software that solves real problems.
 
@@ -144,6 +140,8 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 </table>
 
 **Also explored:** Progressive Web Apps (PWA) · JWT authentication · SQL\*Plus · Prolog · FreeGLUT · Exploratory Data Analysis · Predictive Modeling · Cybersecurity Fundamentals
+
+<p align="center"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/tech-in-action.svg" width="100%" alt="Tech in action: React, Node.js and Express are used in 3 of my 5 featured projects; Python, PostgreSQL, MongoDB and Vite in 2; OpenGL in 1." /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/ambient-divider.svg" width="100%" alt="" /></p>
 
