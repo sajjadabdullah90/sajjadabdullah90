@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="108" viewBox="0 0 360 108">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101a32"/><stop offset="1" stop-color="#080d1a"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="358" height="106" rx="17" fill="url(#bg)" stroke="#263a60" stroke-width="1.5"/>
+  <path d="M18 1H128" stroke="url(#edge)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="53" cy="53" r="26" fill="#12284a" stroke="#2563eb" stroke-width="1.5"/>
+  <path d="M34 53s7-12 19-12 19 12 19 12-7 12-19 12-19-12-19-12Z" fill="none" stroke="#93c5fd" stroke-width="2"/>
+  <circle cx="53" cy="53" r="6" fill="#60a5fa" filter="url(#glow)"/><circle cx="53" cy="53" r="2.5" fill="#eff6ff"/>
+  <text x="94" y="42" fill="#93c5fd" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">GITHUB ANALYTICS</text>
+  <text x="94" y="66" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">PROFILE VISITS</text>
+  <text x="94" y="85" fill="#91a4c4" font-family="Segoe UI,Arial,sans-serif" font-size="10">Thanks for stopping by</text>
+  <path d="M304 30v-8m10 8v-13m10 13v-20m10 20v-10" stroke="#3b82f6" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+  <circle cx="334" cy="20" r="3" fill="#93c5fd"/>
+</svg>
