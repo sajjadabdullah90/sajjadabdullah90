@@ -16,11 +16,18 @@
   &nbsp;
   <a href="Syed_Abdullah_CV.pdf"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-resume.svg" width="190" alt="Download resume" /></a>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=sajjadabdullah90&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="GitHub profile views counter" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/📍_BASED_IN-Karachi%20%7C%20PKT%20UTC%2B5-60A5FA?style=flat-square&labelColor=111827" alt="Based in Karachi, Pakistan — PKT UTC+5" />
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/sajjadabdullah90">
+          <img src="https://komarev.com/ghpvc/?username=sajjadabdullah90&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge&labelColor=0B1020" alt="GitHub profile views counter" />
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/%E2%97%89%20LOCATION-KARACHI%20%E2%80%A2%20PKT%20UTC%2B5-2563EB?style=for-the-badge&labelColor=0B1020&logo=googlemaps&logoColor=60A5FA" alt="Based in Karachi, Pakistan — PKT UTC+5" />
+      </td>
+    </tr>
+  </table>
 
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/hacker-terminal.svg" width="82%" alt="Animated developer terminal showing build and Git commands" />
 
