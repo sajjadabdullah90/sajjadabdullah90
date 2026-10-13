@@ -42,7 +42,7 @@
 
 ## 👋 About Me
 
-I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.72/4.00 CGPA** and a two-time Merit Scholarship recipient. I enjoy turning ideas into practical software—from full-stack web applications and AI-powered tools to interactive 3D experiences.
+I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.72/4.00 CGPA** and a two-time Merit Scholarship recipient. My interests include full-stack web development, AI-powered tools, and interactive 3D experiences.
 
 <table>
   <tr>
