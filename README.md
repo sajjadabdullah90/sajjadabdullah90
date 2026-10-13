@@ -10,6 +10,8 @@
 
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+useful+software%2C+one+idea+at+a+time;Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
 
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/hacker-terminal.svg" width="82%" alt="Animated developer terminal showing build and Git commands" />
+
   <br /><br />
 
   <a href="https://github.com/sajjadabdullah90"><img src="https://img.shields.io/badge/GitHub-sajjadabdullah90-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
