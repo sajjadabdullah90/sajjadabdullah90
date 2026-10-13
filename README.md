@@ -41,6 +41,8 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 
 > Build reliable, useful, and thoughtfully designed software that solves real problems.
 
+<p align="center"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/ambient-divider.svg" width="100%" alt="" /></p>
+
 ## Tech Stack
 
 <table border="1" bordercolor="#1E40AF" cellpadding="10" cellspacing="0" width="100%">
@@ -143,6 +145,8 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 
 **Also explored:** Progressive Web Apps (PWA) · JWT authentication · SQL\*Plus · Prolog · FreeGLUT · Exploratory Data Analysis · Predictive Modeling · Cybersecurity Fundamentals
 
+<p align="center"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/ambient-divider.svg" width="100%" alt="" /></p>
+
 ## Featured Projects
 
 <div align="center">
@@ -156,12 +160,16 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
   <a href="https://github.com/sajjadabdullah90?tab=repositories"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-more-projects.svg" width="49%" alt="More projects on GitHub" /></a>
 </div>
 
+<p align="center"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/ambient-divider.svg" width="100%" alt="" /></p>
+
 ## Experience & Education
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-experience.svg" width="49%" alt="Experience: Software Developer Intern at Clayro Studio Private Limited, Oct to Dec 2026" />
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/card-education.svg" width="49%" alt="Education: B.S. in Information Technology at Bahria University, Karachi, expected 2027" />
 </div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/ambient-divider.svg" width="100%" alt="" /></p>
 
 ## GitHub Stats
 
@@ -183,6 +191,8 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
     <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake.svg" alt="Snake animation eating contribution graph" />
   </picture>
 </div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/ambient-divider.svg" width="100%" alt="" /></p>
 
 ## Let's Connect
 
