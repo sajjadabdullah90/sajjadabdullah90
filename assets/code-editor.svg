@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+<title id="title">Animated code editor</title><desc id="desc">A dark editor window with animated typing of a JavaScript developer profile.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050914"/><stop offset="1" stop-color="#101e3a"/></linearGradient><clipPath id="window"><rect x="175" y="28" width="850" height="235" rx="14"/></clipPath></defs>
+<rect width="1200" height="290" rx="18" fill="url(#bg)"/>
+<rect x="175" y="28" width="850" height="235" rx="14" fill="#0b1020" stroke="#334155" stroke-width="1.5"/>
+<path d="M175 68H1025" stroke="#334155"/><circle cx="199" cy="48" r="5" fill="#fb7185"/><circle cx="218" cy="48" r="5" fill="#fbbf24"/><circle cx="237" cy="48" r="5" fill="#4ade80"/>
+<text x="600" y="52" fill="#94a3b8" font-family="monospace" font-size="12" text-anchor="middle">about-abdullah.js</text>
+<g font-family="monospace" font-size="16">
+<text x="205" y="98" fill="#64748b">1</text><text x="235" y="98" fill="#c084fc">const</text><text x="290" y="98" fill="#93c5fd"> developer</text><text x="393" y="98" fill="#f8fafc"> = {</text>
+<text x="205" y="129" fill="#64748b">2</text><text x="255" y="129" fill="#60a5fa">name:</text><text x="315" y="129" fill="#86efac"> "Syed Abdullah",</text>
+<text x="205" y="160" fill="#64748b">3</text><text x="255" y="160" fill="#60a5fa">focus:</text><text x="315" y="160" fill="#86efac"> ["Full-stack", "AI/ML"],</text>
+<text x="205" y="191" fill="#64748b">4</text><text x="255" y="191" fill="#60a5fa">building:</text><text x="345" y="191" fill="#86efac"> "Useful software",</text>
+<text x="205" y="222" fill="#64748b">5</text><text x="255" y="222" fill="#60a5fa">status:</text><text x="315" y="222" fill="#86efac"> "Always learning"</text>
+<text x="205" y="249" fill="#64748b">6</text><text x="235" y="249" fill="#f8fafc">};</text>
+</g>
+<rect x="458" y="81" width="2" height="21" fill="#60a5fa"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="1198" height="288" rx="17" fill="none" stroke="#3b82f6" stroke-opacity=".3"/>
+</svg>
