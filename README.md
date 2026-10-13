@@ -156,10 +156,10 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
       <p align="right"><a href="https://github.com/sajjadabdullah90/CafeServe"><strong>View repository →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 PakEduNavigate</h3>
+      <h3>🎓 PakEduNavigate <code>(private)</code></h3>
       <p>An academic advisory PWA for Pakistani students, focused on university merit calculations, O/A-Level equivalence, university exploration, and career guidance.</p>
       <p><strong>Stack:</strong> <code>React</code> · <code>Vite</code> · <code>Node.js</code> · <code>Express</code> · <code>Python</code> · <code>FastAPI</code> · <code>PostgreSQL</code> · <code>MongoDB</code></p>
-      <p align="right"><a href="https://github.com/sajjadabdullah90/PakEduNavigate"><strong>View repository →</strong></a></p>
+      <p align="right"><em>🔒 Currently in private development</em></p>
     </td>
   </tr>
   <tr>
@@ -216,6 +216,7 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 - 📜 _Add certifications here as you complete them (Coursera, DeepLearning.AI, etc.)_
 
 ---
+
 ## 📊 GitHub at a Glance
 
 <div align="center">
@@ -251,12 +252,6 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
   </picture>
 </div>
 
-### 🏔️ 3D Contribution Graph
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-</div>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -266,6 +261,7 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
     <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/github-snake.svg" alt="Snake animation eating contribution graph" />
   </picture>
 </div>
+
 ---
 
 ## 🎯 Current Focus
