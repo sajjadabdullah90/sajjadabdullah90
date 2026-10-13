@@ -187,17 +187,6 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
   </tr>
 </table>
 
-### 📌 Live Repository Cards
-
-<div align="center">
-  <a href="https://github.com/sajjadabdullah90/CafeServe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sajjadabdullah90&repo=CafeServe&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&hide_border=true" alt="CafeServe repo card" />
-  </a>
-  <a href="https://github.com/sajjadabdullah90/PakEduNavigate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sajjadabdullah90&repo=PakEduNavigate&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&hide_border=true" alt="PakEduNavigate repo card" />
-  </a>
-</div>
-
 ---
 
 ## 💼 Experience & Education
