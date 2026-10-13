@@ -16,24 +16,22 @@
   &nbsp;
   <a href="Syed_Abdullah_CV.pdf"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-resume.svg" width="190" alt="Download resume" /></a>
 
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
+
   <div align="center">
     <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/karachi-location-card.svg" width="330" alt="Custom Karachi location and timezone card" />
   </div>
 
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/hacker-terminal.svg" width="82%" alt="Animated developer terminal showing build and Git commands" />
-
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
 
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/cyber-circuit.svg" width="100%" alt="Animated cyber circuit banner with glowing signal pulses" />
 
-  <br /><br />
-
-
-  <br /><br />
-
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/code-editor.svg" width="100%" alt="Animated code editor showing a JavaScript developer profile" />
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/developer-workspace.svg" width="100%" alt="Animated developer workspace combining application code, terminal builds, and test checks" />
 
   <br /><br />
+
+
+  <br /><br />
+
 
 </div>
 
