@@ -302,6 +302,9 @@ I'm happy to connect with developers, collaborate on meaningful projects, and le
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2563EB,50:172554,100:0B1020" width="100%" alt="" />
-  <sub>Designed with care by <b>Syed Abdullah</b> · Always learning, always building.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:60A5FA,45:1D4ED8,100:0B1020" width="100%" alt="" />
+  <p><strong>SYED ABDULLAH</strong></p>
+  <sub>Software Developer · Karachi, Pakistan</sub>
+  <br />
+  <sub>Building thoughtful, reliable software — one commit at a time.</sub>
 </div>
