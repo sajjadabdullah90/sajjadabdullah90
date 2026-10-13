@@ -14,6 +14,14 @@
 
   <br /><br />
 
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/cyber-circuit.svg" width="100%" alt="Animated cyber circuit banner with glowing signal pulses" />
+
+  <br /><br />
+
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/matrix-rain.svg" width="100%" alt="Animated Matrix digital rain with developer-themed title" />
+
+  <br /><br />
+
   <a href="https://github.com/sajjadabdullah90"><img src="https://img.shields.io/badge/GitHub-sajjadabdullah90-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/syedabdullah7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sajjadabdullah90@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
