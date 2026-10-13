@@ -22,7 +22,7 @@
 
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/hacker-terminal.svg" width="82%" alt="Animated developer terminal showing build and Git commands" />
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+useful+software%2C+one+idea+at+a+time;Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
 
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/cyber-circuit.svg" width="100%" alt="Animated cyber circuit banner with glowing signal pulses" />
 
@@ -42,7 +42,7 @@
 
 ## 👋 About Me
 
-I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.72/4.00 CGPA** and a two-time Merit Scholarship recipient. My interests include full-stack web development, AI-powered tools, and interactive 3D experiences.
+I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.72/4.00 CGPA** and a two-time Merit Scholarship recipient. I enjoy turning ideas into practical software—from full-stack web applications and AI-powered tools to interactive 3D experiences.
 
 <table>
   <tr>
