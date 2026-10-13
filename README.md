@@ -52,7 +52,7 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 ### Databases & Data
 <p>
   <img height="42" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,python&theme=dark" alt="PostgreSQL, MongoDB, Redis, Prisma, Python" />
-  <img height="42" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+![Pandas](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png) Pandas
   <img height="42" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 </p>
 
