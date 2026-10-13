@@ -17,7 +17,7 @@
   <a href="Syed_Abdullah_CV.pdf"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-resume.svg" width="190" alt="Download resume" /></a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=sajjadabdullah90&style=flat-square&color=60A5FA&label=VISITORS&labelColor=111827" alt="Profile visitors" />
+    <img src="https://komarev.com/ghpvc/?username=sajjadabdullah90&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="GitHub profile views counter" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/📍_BASED_IN-Karachi%20%7C%20PKT%20UTC%2B5-60A5FA?style=flat-square&labelColor=111827" alt="Based in Karachi, Pakistan — PKT UTC+5" />
   </p>
