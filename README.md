@@ -256,9 +256,9 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/github-snake.svg" alt="Snake animation eating contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/snake-output/github-snake.svg" alt="Snake animation eating contribution graph" />
   </picture>
 </div>
 
