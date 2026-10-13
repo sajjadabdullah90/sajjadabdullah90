@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="230" viewBox="0 0 820 230" role="img" aria-labelledby="title desc">
+  <title id="title">Syed Abdullah animated developer terminal</title>
+  <desc id="desc">A dark terminal with animated command lines in neon blue and green.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d18"/>
+      <stop offset="100%" stop-color="#101b32"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity=".1"/>
+    </linearGradient>
+    <style>
+      .mono{font-family:'Fira Code','Cascadia Code',Consolas,monospace;font-size:15px}
+      .command{fill:#dbeafe}
+      .prompt{fill:#60a5fa;font-weight:700}
+      .success{fill:#4ade80}
+      .muted{fill:#8293b3}
+      .row{opacity:0;animation:reveal .5s ease-out forwards}
+      .r1{animation-delay:.35s}.r2{animation-delay:1.05s}.r3{animation-delay:1.85s}.r4{animation-delay:2.55s}.r5{animation-delay:3.25s}
+      .cursor{animation:blink 1s steps(2,start) infinite}
+      @keyframes reveal{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes blink{to{visibility:hidden}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="818" height="228" rx="13" fill="url(#bg)" stroke="#263a60" stroke-width="1.5"/>
+  <path d="M14 1H806a13 13 0 0 1 13 13v28H1V14A13 13 0 0 1 14 1Z" fill="#121f38"/>
+  <circle cx="23" cy="22" r="5" fill="#fb7185"/>
+  <circle cx="41" cy="22" r="5" fill="#fbbf24"/>
+  <circle cx="59" cy="22" r="5" fill="#4ade80"/>
+  <text x="410" y="27" fill="#91a8ce" text-anchor="middle" font-family="Consolas,monospace" font-size="11">abdullah@dev-terminal ~ zsh</text>
+  <path d="M20 43H800" stroke="url(#line)"/>
+  <g class="mono">
+    <text x="25" y="72" class="row r1"><tspan class="prompt">abdullah@dev</tspan><tspan class="muted">:~$ </tspan><tspan class="command">whoami</tspan></text>
+    <text x="25" y="94" class="row r2"><tspan class="success">➜ </tspan><tspan fill="#e2e8f0">Syed Abdullah </tspan><tspan class="muted">| Software Developer</tspan></text>
+    <text x="25" y="124" class="row r2"><tspan class="prompt">abdullah@dev</tspan><tspan class="muted">:~$ </tspan><tspan class="command">npm run build</tspan></text>
+    <text x="25" y="146" class="row r3"><tspan class="success">✔ </tspan><tspan fill="#e2e8f0">Build completed</tspan><tspan class="muted"> — ready to ship</tspan></text>
+    <text x="25" y="176" class="row r4"><tspan class="prompt">abdullah@dev</tspan><tspan class="muted">:~$ </tspan><tspan class="command">git status --short</tspan></text>
+    <text x="25" y="198" class="row r5"><tspan class="success">✔ </tspan><tspan fill="#e2e8f0">Building. Learning. Improving.</tspan><tspan class="success cursor"> ▌</tspan></text>
+  </g>
+</svg>
