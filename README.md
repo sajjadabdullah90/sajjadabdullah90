@@ -216,7 +216,6 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 - 📜 _Add certifications here as you complete them (Coursera, DeepLearning.AI, etc.)_
 
 ---
-
 ## 📊 GitHub at a Glance
 
 <div align="center">
@@ -242,7 +241,23 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
   <img src="https://github-profile-trophy.vercel.app/?username=sajjadabdullah90&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
-<br />
+### 👻 Pac-Man Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+### 🏔️ 3D Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -251,7 +266,6 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
     <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/output/github-snake.svg" alt="Snake animation eating contribution graph" />
   </picture>
 </div>
-
 ---
 
 ## 🎯 Current Focus
