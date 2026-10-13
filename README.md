@@ -21,7 +21,7 @@
 
   <br /><br />
 
-  <p><sub>📍 Karachi, Pakistan &nbsp; · &nbsp; Pakistan Standard Time (UTC+5)</sub></p>
+  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/location-card.svg" width="500" alt="Based in Karachi, Pakistan. Coordinates 24.86 N, 67.00 E. Time zone PKT, UTC+5." />
 
   <br /><br />
 
