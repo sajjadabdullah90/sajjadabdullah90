@@ -43,38 +43,103 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 
 ## Tech Stack
 
-<p>
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-languages.svg" width="200" height="48" alt="Languages" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&theme=dark" alt="Languages icons" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-frontend.svg" width="200" height="48" alt="Frontend and Web" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react,vite,threejs,tailwind,bootstrap&theme=dark" alt="Frontend and Web icons" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-backend.svg" width="200" height="48" alt="Backend and APIs" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend and APIs icons" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-data.svg" width="200" height="48" alt="Databases and Data" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" alt="Databases and Data icons" />
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" />
-  <img height="48" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="Scikit-learn" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-tools.svg" width="200" height="48" alt="Tools and Graphics" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,selenium&theme=dark" alt="Tools and Graphics icons" />
-  <img height="48" src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-learning.svg" width="200" height="48" alt="Currently Learning" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker,nextjs,ts,aws&theme=dark" alt="Currently Learning icons" />
-</p>
+<table border="1" bordercolor="#1E40AF" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="190">
+      <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-languages.svg" width="180" height="44" alt="Languages" />
+    </td>
+    <td align="center">
+      <table border="0" cellpadding="6" cellspacing="0" width="100%">
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="42" alt="Python" /><br /><sub>Python</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="42" alt="C++" /><br /><sub>C++</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="42" alt="Java" /><br /><sub>Java</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="42" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="42" alt="HTML5" /><br /><sub>HTML5</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="42" alt="CSS3" /><br /><sub>CSS3</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-frontend.svg" width="180" height="44" alt="Frontend and Web" />
+    </td>
+    <td align="center">
+      <table border="0" cellpadding="6" cellspacing="0" width="100%">
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="42" alt="React" /><br /><sub>React</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark" height="42" alt="Vite" /><br /><sub>Vite</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="42" alt="Three.js" /><br /><sub>Three.js</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="42" alt="Tailwind CSS" /><br /><sub>Tailwind CSS</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="42" alt="Bootstrap" /><br /><sub>Bootstrap</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-backend.svg" width="180" height="44" alt="Backend and APIs" />
+    </td>
+    <td align="center">
+      <table border="0" cellpadding="6" cellspacing="0" width="100%">
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="42" alt="Node.js" /><br /><sub>Node.js</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="42" alt="Express" /><br /><sub>Express</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="42" alt="FastAPI" /><br /><sub>FastAPI</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-data.svg" width="180" height="44" alt="Databases and Data" />
+    </td>
+    <td align="center">
+      <table border="0" cellpadding="6" cellspacing="0" width="100%">
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="42" alt="MongoDB" /><br /><sub>MongoDB</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="42" alt="Redis" /><br /><sub>Redis</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="42" alt="Prisma" /><br /><sub>Prisma</sub></td>
+          <td align="center"><img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" /><br /><sub>Pandas</sub></td>
+          <td align="center"><img height="42" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="Scikit-learn" /><br /><sub>Scikit-learn</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-tools.svg" width="180" height="44" alt="Tools and Graphics" />
+    </td>
+    <td align="center">
+      <table border="0" cellpadding="6" cellspacing="0" width="100%">
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="42" alt="Git" /><br /><sub>Git</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" alt="GitHub" /><br /><sub>GitHub</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="42" alt="VS Code" /><br /><sub>VS Code</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" height="42" alt="Selenium" /><br /><sub>Selenium</sub></td>
+          <td align="center"><img height="42" src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" /><br /><sub>OpenGL</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-learning.svg" width="180" height="44" alt="Currently Learning" />
+    </td>
+    <td align="center">
+      <table border="0" cellpadding="6" cellspacing="0" width="100%">
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="42" alt="Docker" /><br /><sub>Docker</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="42" alt="Next.js" /><br /><sub>Next.js</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="42" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="42" alt="AWS" /><br /><sub>AWS</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 **Also explored:** Progressive Web Apps (PWA) · JWT authentication · SQL\*Plus · Prolog · FreeGLUT · Exploratory Data Analysis · Predictive Modeling · Cybersecurity Fundamentals
 
