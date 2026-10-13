@@ -58,8 +58,8 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 
 ### Tools & Graphics
 <p>
-  <img height="42" src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, Visual Studio Code" />
-  <img height="42" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img height="42" src="https://skillicons.dev/icons?i=git,github,vscode,selenium&theme=dark" alt="Git, GitHub, Visual Studio Code" />
+  <!-- <img height="42" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /> -->
   <img height="42" src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
 </p>
 
