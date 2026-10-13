@@ -16,9 +16,11 @@
   &nbsp;
   <a href="Syed_Abdullah_CV.pdf"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-resume.svg" width="190" alt="Download resume" /></a>
 
-  <img src="https://komarev.com/ghpvc/?username=sajjadabdullah90&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Karachi-PKT_(UTC%2B5)-172554?style=for-the-badge&logo=clockify&logoColor=60A5FA" alt="Karachi timezone" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sajjadabdullah90&style=for-the-badge&color=1D4ED8&label=PROFILE+VISITORS&labelColor=0B1020" alt="Profile visitors counter" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/LOCAL_TIME-KARACHI%20%C2%B7%20PKT%20UTC%2B5-1D4ED8?style=for-the-badge&labelColor=0B1020&logo=clockify&logoColor=60A5FA" alt="Local time zone: Karachi, Pakistan, PKT UTC+5" />
+  </p>
 
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/hacker-terminal.svg" width="82%" alt="Animated developer terminal showing build and Git commands" />
 
