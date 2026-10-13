@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.72/4.00 CGPA** and a two-time Merit Scholarship recipient. I enjoy turning ideas into practical software—from full-stack web applications and AI-powered tools to interactive 3D experiences.
+I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria University, Karachi**, with a **3.70/4.00 CGPA** and a two-time Merit Scholarship recipient. I enjoy turning ideas into practical software—from full-stack web applications and AI-powered tools to interactive 3D experiences.
 
 - 💻 Software Developer Intern at **Clayro Studio**
 - 🎓 B.S. in Information Technology — expected **2027**
@@ -40,35 +40,19 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 <div align="center">
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" alt="Python, C++, Java, JavaScript, HTML5, CSS3" />
 
-### Web Development
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+### Frontend & Web
+<img src="https://skillicons.dev/icons?i=react,vite,threejs,tailwind,bootstrap&theme=dark" alt="React, Vite, Three.js, Tailwind CSS, Bootstrap" />
 
-### AI, Data & Databases
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express, FastAPI" />
 
-### Tools & Other Technologies
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo= fastapi&logoColor=white" alt="REST APIs" />
+### Databases & Data
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,python,pandas,sklearn&theme=dark" alt="PostgreSQL, MongoDB, Redis, Prisma, Python, Pandas, Scikit-learn" />
+
+### Tools & Graphics
+<img src="https://skillicons.dev/icons?i=git,github,vscode,selenium,opengl&theme=dark" alt="Git, GitHub, VS Code, Selenium, OpenGL" />
 
 </div>
 
@@ -136,7 +120,7 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 <details>
   <summary><strong>Bahria University, Karachi</strong> · B.S. Information Technology · Expected 2027</summary>
   <br />
-  CGPA: <strong>3.72/4.00</strong><br />
+  CGPA: <strong>3.70/4.00</strong><br />
   Merit Scholarship recipient (awarded twice). Relevant areas include software development, databases, data structures, computer networks, cybersecurity, and machine learning.
 </details>
 
