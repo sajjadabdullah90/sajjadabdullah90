@@ -21,7 +21,17 @@
 
   <br /><br />
 
-  <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/karachi-location-card.svg" width="330" alt="Custom Karachi location and timezone card" />
+  <table border="0" cellpadding="8" cellspacing="0" width="78%">
+    <tr>
+      <td align="center" valign="middle" width="48%">
+        <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/karachi-location-card.svg" width="330" alt="Karachi, Pakistan location and Pakistan Standard Time card" />
+      </td>
+      <td align="left" valign="middle">
+        <strong>📍 Based in Karachi, Pakistan</strong><br /><br />
+        <sub>Building practical full-stack applications, exploring AI/ML, and turning ideas into useful software.</sub>
+      </td>
+    </tr>
+  </table>
 
   <br /><br />
 
