@@ -7,10 +7,6 @@
 
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/aurora-hero.svg" width="100%" alt="Animated aurora banner: Syed Abdullah, Full-Stack Developer, Software Engineering, AI/ML" />
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=D4A017&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
-
-  <br /><br />
-
   <a href="https://github.com/sajjadabdullah90"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-github.svg" width="190" alt="Connect on GitHub" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/syedabdullah7"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-linkedin.svg" width="190" alt="Connect on LinkedIn" /></a>
@@ -18,6 +14,10 @@
   <a href="mailto:sajjadabdullah90@gmail.com"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-email.svg" width="190" alt="Email me" /></a>
   &nbsp;
   <a href="Syed_Abdullah_CV.pdf"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-resume.svg" width="190" alt="Download resume" /></a>
+
+  <br /><br />
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=D4A017&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
 
   <br /><br />
 
