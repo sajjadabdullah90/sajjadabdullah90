@@ -1,13 +1,13 @@
 <!--
   GitHub Profile README: Syed Abdullah
-  Theme palette: 0B1020 · 172554 · 2563EB · 60A5FA
+  Theme palette: 0A0A0B · 1A1A1A · D4A017 · B87512
 -->
 
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/aurora-hero.svg" width="100%" alt="Animated aurora banner: Syed Abdullah, Full-Stack Developer, Software Engineering, AI/ML" />
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=D4A017&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;Machine+Learning+%26+Data+Science;Exploring+3D+Graphics+%26+Interactive+Experiences" alt="Animated typing introduction" />
 
   <br /><br />
 
@@ -45,7 +45,7 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 
 ## Tech Stack
 
-<table border="1" bordercolor="#1E40AF" cellpadding="10" cellspacing="0" width="100%">
+<table border="1" bordercolor="#6B5014" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="middle" width="190">
       <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/label-languages.svg" width="180" height="44" alt="Languages" />
@@ -176,12 +176,12 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sajjadabdullah90&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=6B7280" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadabdullah90&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=6B7280" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sajjadabdullah90&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=D4A017&icon_color=D4A017&text_color=C4BCA8" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadabdullah90&layout=compact&hide_border=true&theme=transparent&title_color=D4A017&text_color=C4BCA8" alt="Most used programming languages" />
 
   <br /><br />
 
-  <img src="https://streak-stats.demolab.com?user=sajjadabdullah90&hide_border=true&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=6B7280&currStreakNum=6B7280&sideNums=6B7280&dates=6B7280" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=sajjadabdullah90&hide_border=true&theme=transparent&ring=D4A017&fire=B87512&currStreakLabel=D4A017&sideLabels=C4BCA8&currStreakNum=F3D98B&sideNums=C4BCA8&dates=8C8472" alt="GitHub contribution streak" />
 </div>
 
 <br />
@@ -213,7 +213,7 @@ I'm happy to connect with developers, collaborate on meaningful projects, and le
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:60A5FA,45:1D4ED8,100:0B1020" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:D4A017,45:B87512,100:0A0A0B" width="100%" alt="" />
   <p><strong>SYED ABDULLAH</strong></p>
   <sub>Software Developer · Karachi, Pakistan</sub>
   <br />
