@@ -21,7 +21,7 @@
 
   <br /><br />
 
-  <a href="https://sajjadabdullah90.vercel.app/"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-D4A017?style=for-the-badge&logo=vercel&logoColor=0A0A0B&labelColor=1A1A1A" alt="Visit My Portfolio" /></a>
+  <a href="https://sajjadabdullah90.vercel.app/"><img src="https://img.shields.io/badge/✦_VISIT_MY_PORTFOLIO-0A0A0B?style=for-the-badge&logo=vercel&logoColor=D4A017&labelColor=1A1A1A" alt="Visit My Portfolio" /></a>
 
   <br /><br />
 
