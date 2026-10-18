@@ -11,17 +11,15 @@
 
   <br /><br />
 
-  <a href="https://github.com/sajjadabdullah90"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-github.svg" width="190" alt="Connect on GitHub" /></a>
+  <a href="https://github.com/sajjadabdullah90"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-github.svg" width="170" alt="Connect on GitHub" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/syedabdullah7"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-linkedin.svg" width="190" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/syedabdullah7"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-linkedin.svg" width="170" alt="Connect on LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:sajjadabdullah90@gmail.com"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-email.svg" width="190" alt="Email me" /></a>
+  <a href="mailto:sajjadabdullah90@gmail.com"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-email.svg" width="170" alt="Email me" /></a>
   &nbsp;
-  <a href="Syed_Abdullah_CV.pdf"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-resume.svg" width="190" alt="Download resume" /></a>
-
-  <br /><br />
-
-  <a href="https://sajjadabdullah90.vercel.app/"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-portfolio.svg" width="230" alt="Visit My Portfolio" /></a>
+  <a href="Syed_Abdullah_CV.pdf"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-resume.svg" width="170" alt="Download resume" /></a>
+  &nbsp;
+  <a href="https://sajjadabdullah90.vercel.app/"><img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/button-portfolio.svg" width="170" alt="Visit My Portfolio" /></a>
 
   <br /><br />
 
