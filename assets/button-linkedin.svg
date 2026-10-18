@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="230" height="54" viewBox="0 0 230 54" role="img" aria-label="LinkedIn in">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a66c2"/><stop offset="1" stop-color="#123b72"/></linearGradient></defs>
-<rect x="1" y="1" width="228" height="52" rx="13" fill="#0b1020" stroke="#38bdf8" stroke-opacity=".85"/>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a66c2"/><stop offset="1" stop-color="#211B0C"/></linearGradient></defs>
+<rect x="1" y="1" width="228" height="52" rx="13" fill="#0a0a0b" stroke="#D4A017" stroke-opacity=".85"/>
 <rect x="2" y="2" width="48" height="50" rx="11" fill="url(#g)"/>
 <text x="26" y="33" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#fff">in</text>
 <text x="63" y="24" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#f8fafc">LinkedIn</text>
-<text x="63" y="40" font-family="Arial,sans-serif" font-size="10" fill="#a5b4fc">CONNECT WITH ME ↗</text>
+<text x="63" y="40" font-family="Arial,sans-serif" font-size="10" fill="#F3D98B">CONNECT WITH ME ↗</text>
 </svg>
