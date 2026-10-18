@@ -21,6 +21,10 @@
 
   <br /><br />
 
+  <a href="https://sajjadabdullah90.vercel.app/"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-D4A017?style=for-the-badge&logo=vercel&logoColor=0A0A0B&labelColor=1A1A1A" alt="Visit My Portfolio" /></a>
+
+  <br /><br />
+
   <img src="https://raw.githubusercontent.com/sajjadabdullah90/sajjadabdullah90/main/assets/location-card.svg" width="500" alt="Based in Karachi, Pakistan. Coordinates 24.86 N, 67.00 E. Time zone PKT, UTC+5." />
 
   <br /><br />
