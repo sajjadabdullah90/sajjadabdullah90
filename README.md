@@ -178,8 +178,8 @@ I'm **Syed Abdullah**, an Information Technology undergraduate at **Bahria Unive
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sajjadabdullah90&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=D4A017&icon_color=D4A017&text_color=C4BCA8" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadabdullah90&layout=compact&hide_border=true&theme=transparent&title_color=D4A017&text_color=C4BCA8" alt="Most used programming languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sajjadabdullah90&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=D4A017&icon_color=D4A017&text_color=C4BCA8&cache_seconds=21600" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sajjadabdullah90&layout=compact&hide_border=true&theme=transparent&title_color=D4A017&text_color=C4BCA8&cache_seconds=21600" alt="Most used programming languages" />
 
   <br /><br />
 
